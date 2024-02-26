@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashut0sh75" alt="ashut0sh75" /></a> </p>
 
-- 🔭 I’m currently working on [Helpy_Moto](https://github.com/ashut0sh75/Cartoon)
+- 🔭 I’m currently working on [Helpy_Moto](https://helpymoto.com/?i=1)
 
 - 🌱 I’m currently learning **Android Studios, Unity Engine, VS Code, Git and GitHub**
 
 - 👯 I’m looking to collaborate on [AR Filter app](https://github.com/ashut0sh75/AR-Filter-app)
 
-- 📝 I regularly write articles on GeeksforGeeks [https://auth.geeksforgeeks.org/user/genius_general/articles](https://auth.geeksforgeeks.org/user/genius_general/articles)
+- 📝 I regularly write articles on GeeksforGeeks. Click on [Link](https://auth.geeksforgeeks.org/user/genius_general/articles)
 
 - 💬 Ask me about **Android, Kotlin, Java, Unity, Augmented Reality, Problem Solving**
 
 - 📫 How to reach me **ashusanugupta999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LN2RLVFqKGCPYanmnQlnYRn_dMkh1bLa/view?usp=sharing](https://drive.google.com/file/d/1LN2RLVFqKGCPYanmnQlnYRn_dMkh1bLa/view?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
 
 - ⚡ Fun fact about me **I have a thing for bug fixing, it really doesn't let me sleep and I can work on any project assigned to me.**
 
