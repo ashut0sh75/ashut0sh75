@@ -7,13 +7,12 @@
 
 - 🔭 I’m currently working on [Helpy Moto ](https://github.com/ashut0sh75/hm_consumer_app)
 - 👯 I’m looking to collaborate on **Johar Basket**
-- 🤝 I’m looking for help with [Portfolio](https://github.com/ashut0sh75/Portfolio)
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Jetpack Compose, Kotlin, JAVA, Augmented Reality, Unity 3D, Flutter, Dart, C#**
 - 📫 How to reach me **ashutoshgupta999@gmail.com**
-- 👨‍💻 All of my projects are available at **http://ashut0sh75.github.io/Portfolio/**
-- 📝 I regularly write articles on **https://auth.geeksforgeeks.org/user/genius_general/articles**
-- 📄 Know about my experiences **https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing**
+- 👨‍💻 All of my projects are available at [Portfolio](http://ashut0sh75.github.io/Portfolio/)
+- 📝 I regularly write articles on [GeekForGeeks ](https://auth.geeksforgeeks.org/user/genius_general/articles)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
 
 <div> <a href="https://twitter.com/ashut0sh_75" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Ashutosh Gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
