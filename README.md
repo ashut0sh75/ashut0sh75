@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **Johar Basket**
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Jetpack Compose, Kotlin, JAVA, Augmented Reality, Unity 3D, Flutter, Dart, C#**
-- 📫 How to reach me **ashutoshgupta999@gmail.com**
 - 👨‍💻 All of my projects are available at [Portfolio](http://ashut0sh75.github.io/Portfolio/)
 - 📝 I regularly write articles on [GeekForGeeks ](https://auth.geeksforgeeks.org/user/genius_general/articles)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
