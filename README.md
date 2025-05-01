@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashut0sh75&theme=" alt="ashut0sh75" /></a> </p>
 
-- 🔭 I’m currently working on [Helpy Moto ](https://github.com/ashut0sh75/hm_consumer_app)
-- 👯 I’m looking to collaborate on **Johar Basket**
-- 🌱 I’m currently learning **Android Development**
-- 💬 Ask me about **Jetpack Compose, Kotlin, JAVA, Augmented Reality, Unity 3D, Flutter, Dart, C#**
+- 🔭 I’m currently working in Rapipay Fintech Pvt. Ltd.
+- 🌱 I’m currently learning **Backend Development**
+- 💬 Ask me about **JAVA, Spring Boot, SQL, MongoDB, Jetpack Compose, Kotlin, JAVA, Augmented Reality, Unity 3D, Flutter, Dart, C#**
 - 👨‍💻 All of my projects are available at [Portfolio](http://ashut0sh75.github.io/Portfolio/)
 - 📝 I regularly write articles on [GeekForGeeks ](https://auth.geeksforgeeks.org/user/genius_general/articles)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
