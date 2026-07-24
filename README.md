@@ -1,59 +1,79 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
-<h3 align="center">Genius General</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashut0sh75&label=Profile%20views&color=0e75b6&style=flat" alt="ashut0sh75" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashut0sh75&theme=" alt="ashut0sh75" /></a> </p>
+<h1 align="center">Hi there, I'm Ashutosh Gupta 👋</h1>
+<h3 align="center">Software Engineer @ Rapipay Fintech · Backend & Distributed Systems</h3>
 
-- 🔭 I’m currently working in Rapipay Fintech Pvt. Ltd.
-- 🌱 I’m currently learning **Backend Development**
-- 💬 Ask me about **JAVA, Spring Boot, SQL, MongoDB, Jetpack Compose, Kotlin, JAVA, Augmented Reality, Unity 3D, Flutter, Dart, C#**
-- 👨‍💻 All of my projects are available at [Portfolio](http://ashut0sh75.github.io/Portfolio/)
-- 📝 I regularly write articles on [GeekForGeeks ](https://auth.geeksforgeeks.org/user/genius_general/articles)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
-
-<div> <a href="https://twitter.com/ashut0sh_75" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ashutosh-gupta-engineer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/ashut0sh75" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/ashutosh_gupta75" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ashutoshgupta999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashut0sh_75" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ashut0sh_75" height="30" width="40" /></a><a href="https://linkedin.com/in/Ashutosh Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ashutosh Gupta" height="30" width="40" /></a><a href="https://fb.com/Ashutosh Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Ashutosh Gupta" height="30" width="40" /></a><a href="https://www.hackerrank.com/ashutosh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="ashutosh75" height="30" width="40" /></a><a href="https://www.leetcode.com/ashutosh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="ashutosh75" height="30" width="40" /></a><a href="https://discord.gg/0118" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="0118" height="30" width="40" /></a><a href="https://stackoverflow.com/users/Ashutosh Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="Ashutosh Gupta" height="30" width="40" /></a><a href="https://instagram.com/ashutosh_gupta75" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ashutosh_gupta75" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/genius_general/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="genius_general/profile" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashut0sh75&label=Profile%20views&color=6366f1&style=flat" alt="ashut0sh75" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight%20Badge%20%7C%201964-FFA116?style=flat&logo=leetcode&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashut0sh75&theme=dracula&no-frame=true&margin-w=10" alt="ashut0sh75" />
+  </a>
+</p>
+
+### About me
+
+I'm a backend-focused Software Engineer at **Rapipay Fintech**, building production systems that move real money for **50K+ agents** every day — API integrations, reconciliation pipelines, and reporting systems processing **1M+ transactions daily**. Outside of work I compete on LeetCode (Knight badge, top 3.03%), write technical articles that have crossed **110K+ reads**, and still dabble in the Android/AR/Unity world where I started out.
+
+- 🔭 Currently building reconciliation & reporting pipelines in **Java, Spring Boot, Redis & MongoDB**
+- 🌱 Leveling up in **system design & distributed systems at scale**
+- 💬 Ask me about **Java, Spring Boot, Node.js, SQL/MongoDB, Kotlin, Flutter, Unity 3D & AR**
+- 👨‍💻 Everything I've shipped lives on my [**Portfolio**](https://ashut0sh75.github.io/Portfolio/)
+- 📝 I write on [**GeeksforGeeks**](https://auth.geeksforgeeks.org/user/genius_general/articles) as *genius_general* — 10+ articles, 110K+ views
+- 📄 Full story in my [**Resume**](https://drive.google.com/file/d/16t9-WSaKzmxpPGJfq6_-czMur_czcKvt/view?usp=sharing)
+
+### 🏆 Highlights
+
+| | |
+|---|---|
+| 🎓 | Selected for **Amazon ML Summer School 2024** — among 85,000+ applicants nationwide |
+| ♞ | **LeetCode Knight** — top 3.03% globally, peak rating **1964** |
+| 📈 | Ranked **42 / 7,639** on GeeksforGeeks' college leaderboard |
+| ✍️ | **10+ published articles**, ~110K+ combined views |
+| ⚙️ | Automation work now saves **80%+ manual effort** in production at Rapipay |
+
+### 🛠️ Tech Stack
+
+**Backend & Data**
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,mysql,redis,aws" />
+
+**Mobile, AR & Game Dev**
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,unity,cs,androidstudio" />
+
+**Tools & Web**
+<img src="https://skillicons.dev/icons?i=git,github,html,css,react,postman,firebase" />
+
+### 📊 GitHub Stats
+
 <div align="center">
-<a href="https://github.com/ashut0sh75">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashut0sh75&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashut0sh75&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashut0sh75&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashut0sh75&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashut0sh75&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashut0sh75&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashut0sh75&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashut0sh75&theme=default"/>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashut0sh75&theme=2077" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashut0sh75&theme=2077" height="180em" />
+</div>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashut0sh75&theme=react-dark&hide_border=true" width="100%"/>
+
+### 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ashutosh-gupta-engineer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/ashut0sh_75" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/ashut0sh75" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ashusanugupta999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/ashutosh75/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/genius_general/profile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/ashutosh75" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/20249367/ashutosh-gupta" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://instagram.com/ashutosh_gupta75" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
